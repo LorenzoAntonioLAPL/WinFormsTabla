@@ -1,0 +1,32 @@
+C:\Users\Tania\OneDrive\Escritorio\Progra2\Parcial 3-Tareas\WinFormsTabla\WinFormsTabla\bin\Debug\net8.0-windows\WinFormsTabla.exe
+C:\Users\Tania\OneDrive\Escritorio\Progra2\Parcial 3-Tareas\WinFormsTabla\WinFormsTabla\bin\Debug\net8.0-windows\WinFormsTabla.deps.json
+C:\Users\Tania\OneDrive\Escritorio\Progra2\Parcial 3-Tareas\WinFormsTabla\WinFormsTabla\bin\Debug\net8.0-windows\WinFormsTabla.runtimeconfig.json
+C:\Users\Tania\OneDrive\Escritorio\Progra2\Parcial 3-Tareas\WinFormsTabla\WinFormsTabla\bin\Debug\net8.0-windows\WinFormsTabla.dll
+C:\Users\Tania\OneDrive\Escritorio\Progra2\Parcial 3-Tareas\WinFormsTabla\WinFormsTabla\bin\Debug\net8.0-windows\WinFormsTabla.pdb
+C:\Users\Tania\OneDrive\Escritorio\Progra2\Parcial 3-Tareas\WinFormsTabla\WinFormsTabla\obj\Debug\net8.0-windows\WinFormsTabla.Form1.resources
+C:\Users\Tania\OneDrive\Escritorio\Progra2\Parcial 3-Tareas\WinFormsTabla\WinFormsTabla\obj\Debug\net8.0-windows\WinFormsTabla.csproj.GenerateResource.cache
+C:\Users\Tania\OneDrive\Escritorio\Progra2\Parcial 3-Tareas\WinFormsTabla\WinFormsTabla\obj\Debug\net8.0-windows\WinFormsTabla.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tania\OneDrive\Escritorio\Progra2\Parcial 3-Tareas\WinFormsTabla\WinFormsTabla\obj\Debug\net8.0-windows\WinFormsTabla.AssemblyInfoInputs.cache
+C:\Users\Tania\OneDrive\Escritorio\Progra2\Parcial 3-Tareas\WinFormsTabla\WinFormsTabla\obj\Debug\net8.0-windows\WinFormsTabla.AssemblyInfo.cs
+C:\Users\Tania\OneDrive\Escritorio\Progra2\Parcial 3-Tareas\WinFormsTabla\WinFormsTabla\obj\Debug\net8.0-windows\WinFormsTabla.csproj.CoreCompileInputs.cache
+C:\Users\Tania\OneDrive\Escritorio\Progra2\Parcial 3-Tareas\WinFormsTabla\WinFormsTabla\obj\Debug\net8.0-windows\WinFormsTabla.dll
+C:\Users\Tania\OneDrive\Escritorio\Progra2\Parcial 3-Tareas\WinFormsTabla\WinFormsTabla\obj\Debug\net8.0-windows\refint\WinFormsTabla.dll
+C:\Users\Tania\OneDrive\Escritorio\Progra2\Parcial 3-Tareas\WinFormsTabla\WinFormsTabla\obj\Debug\net8.0-windows\WinFormsTabla.pdb
+C:\Users\Tania\OneDrive\Escritorio\Progra2\Parcial 3-Tareas\WinFormsTabla\WinFormsTabla\obj\Debug\net8.0-windows\WinFormsTabla.genruntimeconfig.cache
+C:\Users\Tania\OneDrive\Escritorio\Progra2\Parcial 3-Tareas\WinFormsTabla\WinFormsTabla\obj\Debug\net8.0-windows\ref\WinFormsTabla.dll
+C:\Users\loren\Desktop\ProgramasC#\WindowsForm\WinFormsTabla\WinFormsTabla\bin\Debug\net8.0-windows\WinFormsTabla.exe
+C:\Users\loren\Desktop\ProgramasC#\WindowsForm\WinFormsTabla\WinFormsTabla\bin\Debug\net8.0-windows\WinFormsTabla.deps.json
+C:\Users\loren\Desktop\ProgramasC#\WindowsForm\WinFormsTabla\WinFormsTabla\bin\Debug\net8.0-windows\WinFormsTabla.runtimeconfig.json
+C:\Users\loren\Desktop\ProgramasC#\WindowsForm\WinFormsTabla\WinFormsTabla\bin\Debug\net8.0-windows\WinFormsTabla.dll
+C:\Users\loren\Desktop\ProgramasC#\WindowsForm\WinFormsTabla\WinFormsTabla\bin\Debug\net8.0-windows\WinFormsTabla.pdb
+C:\Users\loren\Desktop\ProgramasC#\WindowsForm\WinFormsTabla\WinFormsTabla\obj\Debug\net8.0-windows\WinFormsTabla.Form1.resources
+C:\Users\loren\Desktop\ProgramasC#\WindowsForm\WinFormsTabla\WinFormsTabla\obj\Debug\net8.0-windows\WinFormsTabla.csproj.GenerateResource.cache
+C:\Users\loren\Desktop\ProgramasC#\WindowsForm\WinFormsTabla\WinFormsTabla\obj\Debug\net8.0-windows\WinFormsTabla.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\loren\Desktop\ProgramasC#\WindowsForm\WinFormsTabla\WinFormsTabla\obj\Debug\net8.0-windows\WinFormsTabla.AssemblyInfoInputs.cache
+C:\Users\loren\Desktop\ProgramasC#\WindowsForm\WinFormsTabla\WinFormsTabla\obj\Debug\net8.0-windows\WinFormsTabla.AssemblyInfo.cs
+C:\Users\loren\Desktop\ProgramasC#\WindowsForm\WinFormsTabla\WinFormsTabla\obj\Debug\net8.0-windows\WinFormsTabla.csproj.CoreCompileInputs.cache
+C:\Users\loren\Desktop\ProgramasC#\WindowsForm\WinFormsTabla\WinFormsTabla\obj\Debug\net8.0-windows\WinFormsTabla.dll
+C:\Users\loren\Desktop\ProgramasC#\WindowsForm\WinFormsTabla\WinFormsTabla\obj\Debug\net8.0-windows\refint\WinFormsTabla.dll
+C:\Users\loren\Desktop\ProgramasC#\WindowsForm\WinFormsTabla\WinFormsTabla\obj\Debug\net8.0-windows\WinFormsTabla.pdb
+C:\Users\loren\Desktop\ProgramasC#\WindowsForm\WinFormsTabla\WinFormsTabla\obj\Debug\net8.0-windows\WinFormsTabla.genruntimeconfig.cache
+C:\Users\loren\Desktop\ProgramasC#\WindowsForm\WinFormsTabla\WinFormsTabla\obj\Debug\net8.0-windows\ref\WinFormsTabla.dll
